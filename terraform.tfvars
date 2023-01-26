@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 do_token = "...............token............"
+=======
+do_token = ""
+>>>>>>> 95fe90d (Output ip e kube_config.yaml)
 image    = "ubuntu-22-04-x64"
 name     = "jenkins"
 region   = "nyc1"
