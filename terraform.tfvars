@@ -1,4 +1,4 @@
-do_token = "dop_v1_6521dfba9f1415870c6a298aaaf4366d5020a70b67c5e2728452d19d71b0727a"
+do_token = "...............token............"
 image    = "ubuntu-22-04-x64"
 name     = "jenkins"
 region   = "nyc1"
